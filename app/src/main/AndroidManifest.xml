@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AndroidDrawerSamping"
         tools:targetApi="31">
+         <activity
+            android:name=".Khas"
+            android:exported="false" />
         <activity
             android:name=".MainActivity"
             android:exported="true">
